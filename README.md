@@ -3,7 +3,8 @@
 Concepts Covered :-
 
 1. Components & Dynamic Values in Templates
-2. 
+2. Multiple Components
+3. Adding Styles
 
 
 Notes :-
@@ -14,4 +15,7 @@ Notes :-
 4. In older versions of react (less than version 17), we need to import react at top of file inside the components to work, but now no need to do this in version 17 and above.
 5. A component in a nutshell is a function which returns something (JSX templates)
 6. React converts whatever datatype we use to string before it outputs on a browser (we can output numbers, strings, arrays, the only thing we cannot output on browser is booleans and objects)
-7. 
+
+Links :-
+
+1. [Google Fonts](https://fonts.google.com/specimen/Quicksand)
