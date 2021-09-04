@@ -5,6 +5,7 @@ Concepts Covered :-
 1. Components & Dynamic Values in Templates
 2. Multiple Components
 3. Adding Styles
+4. Click Events
 
 
 Notes :-
