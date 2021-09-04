@@ -6,6 +6,7 @@ Concepts Covered :-
 2. Multiple Components
 3. Adding Styles
 4. Click Events
+5. useState Hook
 
 
 Notes :-
