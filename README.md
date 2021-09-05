@@ -7,6 +7,8 @@ Concepts Covered :-
 3. Adding Styles
 4. Click Events
 5. useState Hook
+6. Outputting Lists
+7. Props
 
 
 Notes :-
