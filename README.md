@@ -13,6 +13,7 @@ Concepts Covered :-
 9. Functions as props
 10. useEffect Hook
 11. useEffect Dependencies
+12. Using JSON Server
 
 Notes :-
 
