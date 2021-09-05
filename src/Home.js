@@ -3,11 +3,7 @@ import BlogList from "./BlogList";
 
 const Home = () => {
 
-    const [blogs, setBlogs] = useState([
-        { title: 'My new website', body: 'lorem epsum...', author: 'mario', id: 1 },
-        { title: 'Welcome to party', body: 'lorem epsum...', author: 'yoshi', id: 2 },
-        { title: 'Web dev top tips', body: 'lorem epsum...', author: 'mario', id: 3 },
-    ]);
+    const [blogs, setBlogs] = useState(null);
 
     const handleDelete = (id) => {
         const newBlogs = blogs.filter(blog => blog.id !== id);
@@ -15,12 +11,18 @@ const Home = () => {
     }
 
     useEffect(() => {
-        console.log('useEffect Data');
+        fetch('http://localhost:8000/blogs')
+            .then(res => {
+                return res.json();
+            })
+            .then((data) => {
+                setBlogs(data);
+            });
     }, []);
 
     return ( 
         <div className="home">
-            <BlogList blogs={blogs} title="All blogs" handleDelete={handleDelete} />
+            {blogs && <BlogList blogs={blogs} title="All blogs" handleDelete={handleDelete} />}
         </div>
      );
 }

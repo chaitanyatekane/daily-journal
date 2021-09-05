@@ -14,6 +14,7 @@ Concepts Covered :-
 10. useEffect Hook
 11. useEffect Dependencies
 12. Using JSON Server
+13. Fetching Data with useEffect
 
 Notes :-
 
