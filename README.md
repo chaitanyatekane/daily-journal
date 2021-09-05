@@ -10,7 +10,7 @@ Concepts Covered :-
 6. Outputting Lists
 7. Props
 8. Reusing Components
-
+9. Functions as props
 
 Notes :-
 
