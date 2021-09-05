@@ -9,6 +9,7 @@ Concepts Covered :-
 5. useState Hook
 6. Outputting Lists
 7. Props
+8. Reusing Components
 
 
 Notes :-
