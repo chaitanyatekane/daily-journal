@@ -12,6 +12,7 @@ Concepts Covered :-
 8. Reusing Components
 9. Functions as props
 10. useEffect Hook
+11. useEffect Dependencies
 
 Notes :-
 
