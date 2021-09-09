@@ -27,6 +27,7 @@ Concepts Covered :-
 23. Controlled Inputs (forms)
 24. Submit Events
 25. Making a POST Request
+26. Programmatic Redirects
 
 Notes :-
 
