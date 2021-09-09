@@ -21,6 +21,7 @@ Concepts Covered :-
 17. The React Router
 18. Exact Match Routes
 19. Router Links
+20. useEffect Cleanup
 
 Notes :-
 
