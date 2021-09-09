@@ -26,6 +26,7 @@ Concepts Covered :-
 22. Reusing Custom Hooks
 23. Controlled Inputs (forms)
 24. Submit Events
+25. Making a POST Request
 
 Notes :-
 
