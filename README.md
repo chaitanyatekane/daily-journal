@@ -29,6 +29,7 @@ Concepts Covered :-
 25. Making a POST Request
 26. Programmatic Redirects
 27. Deleting Blogs
+28. 404 Page
 
 Notes :-
 
