@@ -28,6 +28,7 @@ Concepts Covered :-
 24. Submit Events
 25. Making a POST Request
 26. Programmatic Redirects
+27. Deleting Blogs
 
 Notes :-
 
