@@ -18,6 +18,8 @@ Concepts Covered :-
 14. Conditional Loading Message
 15. Handling Fetch Errors
 16. Making a Custom Hook
+17. The React Router
+18. Exact Match Routes
 
 Notes :-
 
