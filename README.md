@@ -22,6 +22,7 @@ Concepts Covered :-
 18. Exact Match Routes
 19. Router Links
 20. useEffect Cleanup
+21. Route Parameters
 
 Notes :-
 
