@@ -23,6 +23,7 @@ Concepts Covered :-
 19. Router Links
 20. useEffect Cleanup
 21. Route Parameters
+22. Reusing Custom Hooks
 
 Notes :-
 
