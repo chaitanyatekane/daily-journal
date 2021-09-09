@@ -24,6 +24,7 @@ Concepts Covered :-
 20. useEffect Cleanup
 21. Route Parameters
 22. Reusing Custom Hooks
+23. Controlled Inputs (forms)
 
 Notes :-
 
